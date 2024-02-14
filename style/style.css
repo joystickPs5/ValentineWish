@@ -3,9 +3,10 @@ html {
 }
 
 body {
+  background-color: #FFB6C1;
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-color: lightpink;
+  
 }
 
 .container {
